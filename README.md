@@ -3,12 +3,12 @@
 ## Выполнили студенты группы П25-2.1 Карпухин Дмитрий и Трунцев Богдан
 ---
 <picture>
-  <img src="https://github.com/Karpukhin-D/Task-5/blob/main/1.png">
+  <img src="https://github.com/Karpukhin-D/Task-6/blob/main/практ-6/1.png">
 </picture>
 
 
 <picture>
-  <img src="https://github.com/Karpukhin-D/Task-5/blob/main/2.png">
+  <img src="https://github.com/Karpukhin-D/Task-6/blob/main/практ-6/2.png">
 </picture>
 
 ```csharp
